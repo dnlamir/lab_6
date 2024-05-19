@@ -12,5 +12,5 @@ $height = 2;
 $area = calculateArea($width, $height);
 
 // Display the result
-echo "The area of a rectangle with width of $width and height of $height is $area";
+echo "The area of a rectangle with a width of $width and $height is $area";
 ?>
